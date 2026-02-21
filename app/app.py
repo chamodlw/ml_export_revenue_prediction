@@ -317,7 +317,7 @@ elif page == "🧠 Model Info":
     5. **Tea price volatility** adds meaningful signal for seasonal patterns
 
     ---
-    ### Data Sources (for real submission)
+    ### Data Sources
     - 🏦 [Central Bank of Sri Lanka](https://www.cbsl.gov.lk)
     - 📦 [Export Development Board](https://www.srilankabusiness.com)
     - ✈️ [Sri Lanka Tourism Development Authority](https://www.sltda.gov.lk)
